@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environments created with virtualenvwrapper
+.local/share/virtualenvs/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb~
+
+# pytest
+.cache/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# coverage
+.coverage
+coverage.*
+htmlcov/
+
+# C extensions
+build/
+dist/
+*.egg-info/
+*.egg
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv
+.python-version
+
+# pyinstaller
+*.manifest
+*.spec
+
+# PEP 582; used by some build systems like poetry
+__pypackages__/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter Notebook runtime files
+*.nbconvert.ipynb
+*.nbconvert/
+
+# Test result outputs
+test-output/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Mac system files
+*.DS_Store
+
+# VS Code Python-specific
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# dotenv
+.env
+.env.*
+
+# Spyder project settings
+.spyproject/
+
+# PyCharm project settings
+.idea/
+
+# Pyre type checker
+.pyre/
