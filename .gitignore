@@ -101,6 +101,7 @@ coverage.xml
 
 # PyCharm project settings
 .idea/
+.Lib/
 
 # Pyre type checker
 .pyre/
